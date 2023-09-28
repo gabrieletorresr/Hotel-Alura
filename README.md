@@ -25,7 +25,8 @@ Para executar o projeto localmente, siga estas etapas:
 
 1. Clone o repositório:
 
-  (https://github.com/gabrieletorresr/Hotel-Alura.git)  ```bash
+ ```bash
+(https://github.com/gabrieletorresr/Hotel-Alura.git)
 
    ## Requisitos
 Certifique-se de atender aos seguintes requisitos para executar o projeto:
